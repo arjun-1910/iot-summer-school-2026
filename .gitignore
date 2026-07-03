@@ -1,0 +1,11 @@
+# Compiled files
+*.hex
+*.elf
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE folders
+.vscode/
+build/
