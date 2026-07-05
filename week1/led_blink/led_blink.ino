@@ -1,3 +1,8 @@
+/*
+Author: Arjun Rajesh
+Date: 05-07-2026
+Description: LED blink using potentiometer speed control
+*/
 int potPin = A0;
 int led = 13;
 int count = 0;
