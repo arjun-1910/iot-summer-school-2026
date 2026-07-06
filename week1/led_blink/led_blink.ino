@@ -25,4 +25,6 @@ void loop() {
 
   Serial.print("Blink count: ");
   Serial.println(count);
+  // Potentiometer issue fixed
 }
+
